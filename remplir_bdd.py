@@ -20,7 +20,7 @@ CREATE TABLE IF NOT EXISTS citoyens (
 # Insertion des citoyens
 citoyens = [
     ("123456789", "Aidouni", "Sofiane", "12 rue de Offenburg", "1991-01-31", "sofiane.jpg"),
-    ("987654321", "Yousfi", "Mirhame", "34 avenue de Stuttgart", "1994-06-23", "mirhame.jpg"),
+    ("876543219", "Yousfi", "Mirhame", "34 avenue de Stuttgart", "1994-06-23", "mirhame.jpg"),
     ("987654691", "Martin", "Claire", "04 avenue de Berlin", "1982-05-13", "claire.jpg")
 ]
 
